@@ -11,4 +11,4 @@ python main.py
 ```
 
 ## Link do projeto rodando:
-https://drive.google.com/file/d/1MWI8iWl14zMi40Kz2F_FwNqtQkbcqnCy/view?usp=sharing
+https://drive.google.com/file/d/1Xkvw-9gUoOhFgxaPukP3lsnbVRH16hqa/view?usp=sharing
